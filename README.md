@@ -1,3 +1,3 @@
  # new project
 
-   tis project was created from local system
+   tis project was created from local system.
